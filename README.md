@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 <!--
 **naoufalcb/naoufalcb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### 👋 Hi there! I'm Naoufal CHABAA
+
+Future AI/ML Engineer and am deeply passionate about pushing the boundaries of AI research and applications.  
+
+### 💡 What I’m into:  
+- **Artificial Intelligence** 🤖
+- **Computer Vision** 🖼️  
+- **Language Models (LLMs/VLM)** 💬  
