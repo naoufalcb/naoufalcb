@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 Future AI/ML Engineer and am deeply passionate about pushing the boundaries of AI research and applications.  
 
 ### 💡 What I’m into:  
-- **AI Agents** 🤖
 - **Artificial Intelligence** 🌟
+- **AI Agents** 🤖
 - **Computer Vision** 🖼️  
 - **Language Models (LLMs/VLM)** 💬  
