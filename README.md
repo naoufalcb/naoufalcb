@@ -23,3 +23,7 @@ Future AI/ML Engineer and am deeply passionate about pushing the boundaries of A
 - **AI Agents** 🤖
 - **Computer Vision** 🖼️  
 - **Language Models (LLMs/VLM)** 💬  
+
+### 📫 Connect with me:
+- [LinkedIn](https://www.linkedin.com/in/naoufal-chabaa)
+- [Twitter](https://x.com/naoufalcb)
